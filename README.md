@@ -1,5 +1,5 @@
 # omnifood
-Omnifood is a premium food delivery service with the mission to bring affordable and healthy meals to as many people as possible.
+Omnifood is a ficitious premium food delivery service with the mission to bring affordable and healthy meals to as many people as possible.  This website is created with responsive website design to suit different devices.
 
 ## Description
 This website is build on these technologies:
@@ -18,6 +18,7 @@ Libraries use:
 - selectivizr
 
 ## Website
-Click this [link](https://chongzter.github.io/omnifood/) to view the website.
+Click this [link](https://chongzter.github.io/omnifood/) to view the website.  
+Alternative [link](https://omnifoodz.000webhostapp.com/).
 
 
