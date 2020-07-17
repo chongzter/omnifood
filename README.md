@@ -21,4 +21,7 @@ Libraries use:
 Click this [link](https://chongzter.github.io/omnifood/) to view the website.  
 Alternative [link](https://omnifoodz.000webhostapp.com/).
 
+## Screenshots
+<img src="https://github.com/chongzter/omnifood/blob/master/Omnifood%20desktop.png" alt="Omnifood Desktop">  
+<img src="https://github.com/chongzter/omnifood/blob/master/Omnifood%20mobile.png" alt="Omnifood Mobile">                                                                                                     
 
